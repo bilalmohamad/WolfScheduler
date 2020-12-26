@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.ncsu.csc216.wolf_scheduler.course","l":"Course"},{"p":"edu.ncsu.csc216.wolf_scheduler.io","l":"CourseRecordIO"},{"p":"edu.ncsu.csc216.wolf_scheduler.scheduler","l":"WolfScheduler"},{"p":"edu.ncsu.csc216.wolf_scheduler.ui","l":"WolfSchedulerGUI"}]
